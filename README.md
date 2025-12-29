@@ -25,8 +25,8 @@ Criação, treinamento e deploy de modelos de aprendizado de máquina, desde reg
 ## 📊 Estatísticas e Tecnologias
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=vision-glow" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=vision-glow" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ASFischer]&layout=compact&theme=vision-glow" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[ASFischer]&show_icons=true&theme=vision-glow" alt="Estatísticas do GitHub" />
 </p>
 
 > **Nota:** Para gráficos interativos de habilidades, recomendo usar o [Canva](https://www.canva.com) ou [Plotly](https://plotly.com/) para gerar um gráfico de radar e exportar como SVG/PNG.
