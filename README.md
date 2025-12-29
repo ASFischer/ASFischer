@@ -10,15 +10,15 @@ Sou um apaixonado por transformar dados brutos em insights acionáveis e modelos
 
 ### 🐍 Python
 Desenvolvimento de scripts robustos, automação e criação de APIs. Tenho domínio das bibliotecas essenciais para ciência de dados.
-* **Stacks:** Pandas, NumPy, FastAPI, Flask, Scrapy.
+* **Stacks:** Pandas, NumPy.
 
 ### 🗄️ SQL & Data Architecture
 Expertise em consultas complexas, otimização de queries e modelagem de bancos de dados relacionais.
-* **Stacks:** PostgreSQL, MySQL, SQL Server, BigQuery.
+* **Stacks:** PostgreSQL.
 
 ### 🤖 Machine Learning
 Criação, treinamento e deploy de modelos de aprendizado de máquina, desde regressões simples até redes neurais.
-* **Stacks:** Scikit-Learn, TensorFlow, PyTorch, XGBoost, MLflow.
+* **Stacks:** Scikit-Learn, XGBoost.
 
 ---
 
