@@ -1,48 +1,44 @@
-👋 Olá, eu sou um Desenvolvedor de Dados e Cientista!
-Bem-vindo ao meu espaço no GitHub! Sou apaixonado por transformar dados brutos em insights acionáveis e construir soluções de machine learning robustas. Meu foco principal está na interseção de análise de dados, modelagem preditiva e gestão de projetos para entregar valor e impulsionar resultados.
+👋 Hello, I am a Data Developer and Data Scientist!
+Welcome to my GitHub space! I am passionate about transforming raw data into actionable insights and building robust machine learning solutions. My main focus lies at the intersection of data analysis, predictive modeling, and project management to deliver value and drive results.
 
-💻 Minhas Habilidades Técnicas:
-Minha stack de tecnologia é construída em torno de ferramentas poderosas para análise, estatística e engenharia de dados.
+💻 Technical Skills:
+My technology stack is built around powerful tools for data analysis, statistics, and data engineering.
 
-Linguagens de Programação e Estatística:
+Programming Languages and Statistics:
 
-🐍 Python: Proficiência em data science (Pandas, NumPy, Scikit-learn), desenvolvimento de scripts e automação.
+🐍 Python: Proficient in data science (Pandas, NumPy, Scikit-learn), script development, and automation.
 
-📊 R: Experiência em análise estatística, visualização de dados e relatórios (ggplot2, Tidyverse).
+📊 R: Experience in statistical analysis, data visualization, and reporting (ggplot2, Tidyverse).
 
-Banco de Dados e Versionamento:
+Databases and Version Control:
 
-🐘 PostgreSQL: Domínio em consultas SQL, otimização de queries, design e manutenção de bancos de dados relacionais.
+🐘 PostgreSQL: Strong command of SQL queries, query optimization, and the design and maintenance of relational databases.
 
-📦 Git: Sólido conhecimento em controle de versão, branching, merging e colaboração via plataformas como GitHub.
+📦 Git: Solid knowledge of version control, branching, merging, and collaboration through platforms like GitHub.
 
-Visualização e Business Intelligence (BI):
+Visualization and Business Intelligence (BI):
 
-📈 Power BI: Criação de dashboards interativos, modelagem de dados e transformação de dados (Power Query/M).
+📈 Power BI: Creation of interactive dashboards, data modeling, and data transformation (Power Query/M).
 
-🧠 Foco em Machine Learning:
-Tenho um forte interesse e experiência em aplicar técnicas de Machine Learning para resolver problemas complexos, desde regressão e classificação até agrupamento e séries temporais.
+🧠 Focus on Machine Learning:
+I have a strong interest and experience in applying machine learning techniques to solve complex problems, ranging from regression and classification to clustering and time series.
 
-.Implementação de modelos preditivos.
+Implementation of predictive models
+Data preprocessing and feature engineering
+Model evaluation and optimization
 
-.Pré-processamento de dados e engenharia de features.
+🚀 Project Management and Collaboration Skills:
+Technical skills are essential, but the ability to efficiently deliver projects within a team is what truly makes a difference.
 
-.Avaliação e otimização de modelos.
+📅 Project Management: Experience in planning, executing, and monitoring data projects, ensuring delivery within scope and deadlines.
 
-🚀 Competências de Gestão e Colaboração:
-A técnica é fundamental, mas a capacidade de entregar projetos de forma eficiente e em equipe é o que realmente faz a diferença.
+🤝 Collaboration: Strong ability to work in teams, communicate technical results to non-technical audiences, and foster a collaborative and learning-oriented environment.
 
-📅 Gestão de Projetos: Experiência em planejar, executar e monitorar projetos de dados, garantindo a entrega dentro do prazo e escopo.
+🌱 What I’m looking for:
+I am always seeking new challenges and opportunities to:
 
-🤝 Cooperatividade: Forte habilidade de trabalhar em equipe, comunicar resultados técnicos para públicos não técnicos e promover um ambiente de trabalho colaborativo e de aprendizado mútuo.
+Contribute to innovative projects
+Learn new technologies and methodologies
+Connect data science theory with real-world practical applications
 
-🌱 O que estou buscando:
-Estou sempre procurando por novos desafios e oportunidades para:
-
-.Contribuir para projetos inovadores.
-
-.Aprender novas tecnologias e metodologias.
-
-.Conectar a teoria da ciência de dados com a aplicação prática no mundo real.
-
-.Sinta-se à vontade para explorar meus repositórios!
+Feel free to explore my repositories!
