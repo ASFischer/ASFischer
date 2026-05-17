@@ -26,10 +26,6 @@ Here are some of the data pipelines and predictive architectures I have develope
 - Conducted deep Exploratory Data Analysis (EDA) to identify critical degradation patterns and feature correlations.
 - **Engineering Focus:** Structured the repository with a strict focus on evaluation metrics, reproducibility, and clear pipeline documentation.
 
-### 📞 [Customer Churn Analysis (Telecom)](https://github.com/ASFischer)
-**Objective:** Identify cancellation patterns in a telecommunications dataset to support business retention strategies.
-- Engineered an end-to-end **Data Wrangling** pipeline, handling variable transformation and data cleaning.
-- Uncovered key risk factors driving customer churn through structured statistical insights.
 
 ### 📈 [Time Series Forecasting](https://github.com/ASFischer)
 **Objective:** Model historical trends and generate future data projections.
