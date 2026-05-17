@@ -20,14 +20,14 @@ I leverage the Python ecosystem and SQL to extract raw data, clean out noise, an
 
 Here are some of the data pipelines and predictive architectures I have developed to solve real-world business challenges:
 
-### 🏭 [Industrial Predictive Maintenance](https://github.com/ASFischer)
+### 🏭 [Industrial Predictive Maintenance](https://github.com/ASFischer/teste_industriall)
 **Objective:** Anticipate critical equipment failures in a production line to minimize operational downtime.
 - Developed a classification model using **Random Forest** based on temperature and pressure sensor data.
 - Conducted deep Exploratory Data Analysis (EDA) to identify critical degradation patterns and feature correlations.
 - **Engineering Focus:** Structured the repository with a strict focus on evaluation metrics, reproducibility, and clear pipeline documentation.
 
 
-### 📈 [Time Series Forecasting](https://github.com/ASFischer)
+### 📈 [Time Series Forecasting](https://github.com/ASFischer/arima)
 **Objective:** Model historical trends and generate future data projections.
 - Applied statistical and predictive models like **ARIMA** to capture seasonality and structural trends.
 - Refined index slicing and mathematical logic to ensure correct data segmentation among training, testing, and validation sets, preventing data leakage.
