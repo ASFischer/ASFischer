@@ -59,5 +59,5 @@ As a junior professional, I understand that my role goes beyond tuning hyperpara
 - **Portfolio:** Feel free to explore my repositories below! 👇
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=ASFischer&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASFischer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
