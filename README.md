@@ -57,7 +57,7 @@ As a junior professional, I understand that my role goes beyond tuning hyperpara
 - **LinkedIn:** [https://www.linkedin.com/in/andresouzafischer/]
 - **E-mail:** dedesfischer@gmail.com
 - **Portfolio:** Feel free to explore my repositories below! 👇
-
+  
 <div align="center">
-  <img src="https://github-readme-autostatus.vercel.app/api?user=ASFischer&theme=dark" alt="GitHub Activity" />
+  <img src="https://github-readme-stats.vercel.com/api?username=ASFischer&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
