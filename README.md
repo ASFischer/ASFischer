@@ -31,7 +31,7 @@ Here are some of the data pipelines and predictive architectures I have develope
 - Applied statistical and predictive models like **ARIMA** to capture seasonality and structural trends.
 - Refined index slicing and mathematical logic to ensure correct data segmentation among training, testing, and validation sets, preventing data leakage.
 
-### 📈 [Credit Risk Modelling](https://github.com/ASFischer/credit_risk)
+### 💰 [Credit Risk Modelling](https://github.com/ASFischer/credit_risk)
 **Objective:** Evaluate clients credit risk based on the feature collumns.
 - Applied a **XgBoost** model to predict dafaulting clients.
 - Used **feature engineering** to create new features for better predictment in real world scenarios.
