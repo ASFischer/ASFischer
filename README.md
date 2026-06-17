@@ -1,6 +1,6 @@
 # Hi, I'm André Fischer! 👋
 
-Junior Data Scientist and Data Analyst continuously evolving in the fields of Machine Learning and Artificial Intelligence. Currently, I am in my final year of a Bachelor's degree in Information Systems.
+Junior Data Scientist continuously evolving in the fields of Machine Learning and Artificial Intelligence. Currently, I am in my final year of a Bachelor's degree in Information Systems.
 
 I leverage the Python ecosystem and SQL to extract raw data, clean out noise, and build predictive solutions that empower business teams to make data-driven decisions. I firmly believe that a machine learning model is only as good as its documentation and reproducibility—crucial habits for preventing technical knowledge loss within a team.
 
@@ -8,9 +8,8 @@ I leverage the Python ecosystem and SQL to extract raw data, clean out noise, an
 
 ## 🛠️ Technical Skills & Stack
 
-- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Plotly), R (Basic).
+- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Plotly, PyTorch).
 - **Data & BI:** SQL (PostgreSQL), DBeaver, Excel, Power BI, Looker Studio.
-- **Modeling & Statistics:** Regression, Classification (Random Forest, Naive Bayes), Time Series (ARIMA), Exploratory Data Analysis (EDA), and Hypothesis Testing.
 - **Tools & Methodologies:** Git/GitHub, Agile Methodologies (Jira), Postman.
 - **Languages:** English (C1 - Advanced) | Spanish (B2 - Intermediate).
 
@@ -31,6 +30,11 @@ Here are some of the data pipelines and predictive architectures I have develope
 **Objective:** Model historical trends and generate future data projections.
 - Applied statistical and predictive models like **ARIMA** to capture seasonality and structural trends.
 - Refined index slicing and mathematical logic to ensure correct data segmentation among training, testing, and validation sets, preventing data leakage.
+
+### 📈 [Credit Risk Modelling](https://github.com/ASFischer/credit_risk)
+**Objective:** Evaluate clients credit risk based on the feature collumns.
+- Applied a **XgBoost** model to predict dafaulting clients.
+- Used **feature engineering** to create new features for better predictment in real world scenarios.
 
 ---
 
@@ -56,8 +60,3 @@ As a junior professional, I understand that my role goes beyond tuning hyperpara
 
 - **LinkedIn:** [https://www.linkedin.com/in/andresouzafischer/]
 - **E-mail:** dedesfischer@gmail.com
-- **Portfolio:** Feel free to explore my repositories below! 👇
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASFischer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
