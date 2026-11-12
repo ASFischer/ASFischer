@@ -1,62 +1,61 @@
-# Hi, I'm André Fischer! 👋
+# Hi, I'm André Fischer
 
-Junior Data Scientist continuously evolving in the fields of Machine Learning and Artificial Intelligence. Currently, I am in my final year of a Bachelor's degree in Information Systems.
+Junior Data Analyst at OCL, working across data engineering and machine learning. Final-year Information Systems student at Multivix (graduating December 2026), based in Vitória, Brazil.
 
-I leverage the Python ecosystem and SQL to extract raw data, clean out noise, and build predictive solutions that empower business teams to make data-driven decisions. I firmly believe that a machine learning model is only as good as its documentation and reproducibility—crucial habits for preventing technical knowledge loss within a team.
-
----
-
-## 🛠️ Technical Skills & Stack
-
-- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Plotly, PyTorch).
-- **Data & BI:** SQL (PostgreSQL), DBeaver, Excel, Power BI, Looker Studio.
-- **Tools & Methodologies:** Git/GitHub, Agile Methodologies (Jira), Postman.
-- **Languages:** English (C1 - Advanced) | Spanish (B2 - Intermediate).
+I build the path from a raw database to a business decision: SQL and dbt pipelines underneath, machine learning models on top, and documentation good enough that someone else can pick the work up. Coming from software QA, the part I care about most happens before training: checking that the data means what it seems to mean, removing features that leak the answer, and validating the model the way it will actually be used.
 
 ---
 
-## 🚀 Featured Projects
+## Current work — OCL
 
-Here are some of the data pipelines and predictive architectures I have developed to solve real-world business challenges:
+- **Data engineering:** incremental dbt models and PostgreSQL functions on an Airbyte-fed warehouse, cutting query times from up to 375 s to under 1.5 s. The marts feed the company's AI agent through read-only, mart-only access.
+- **Machine learning:** a multiclass model that recommends the most likely resolution for ~157k delinquent contracts. Read-only MySQL extraction, a modular Python pipeline, and an MLP vs. LightGBM benchmark under the same split and decision rule (LightGBM won, confirmed with a paired bootstrap). Includes a confidence threshold and an out-of-distribution flag so the model abstains where it would be unreliable.
 
-### 🏭 [Industrial Predictive Maintenance](https://github.com/ASFischer/teste_industriall)
-**Objective:** Anticipate critical equipment failures in a production line to minimize operational downtime.
-- Developed a classification model using **Random Forest** based on temperature and pressure sensor data.
-- Conducted deep Exploratory Data Analysis (EDA) to identify critical degradation patterns and feature correlations.
-- **Engineering Focus:** Structured the repository with a strict focus on evaluation metrics, reproducibility, and clear pipeline documentation.
-
-
-### 📈 [Time Series Forecasting](https://github.com/ASFischer/arima)
-**Objective:** Model historical trends and generate future data projections.
-- Applied statistical and predictive models like **ARIMA** to capture seasonality and structural trends.
-- Refined index slicing and mathematical logic to ensure correct data segmentation among training, testing, and validation sets, preventing data leakage.
-
-### 💰 [Credit Risk Modelling](https://github.com/ASFischer/credit_risk)
-**Objective:** Evaluate clients credit risk based on the feature collumns.
-- Applied a **XgBoost** model to predict dafaulting clients.
-- Used **feature engineering** to create new features for better predictment in real world scenarios.
+*(Private company code — not published here.)*
 
 ---
 
-## 💼 Related Professional Experience
+## Featured projects
 
-**QA (Software Quality) Engineering Intern — WebPosto** *(2024 - 2025)*
-While focused on software quality, this role deeply shaped my data engineering habits:
-- **Data Integrity:** Used SQL daily across multiple complex relational databases to audit data and ensure product usability.
-- **Agile & Collaboration:** Collaborated in an agile environment using Jira and Git, generating technical reports, and building documentation to prevent team knowledge loss.
+### [B2B Credit Default Prediction — Datarisk case](https://github.com/ASFischer/datarisk-case)
+Probability that a business client's charge will be paid 5+ days late.
+- Historical features computed "as of" each charge date, using only outcomes already known at that point (no temporal leakage).
+- Out-of-time validation replicating the gap between development and test periods.
+- **LightGBM — AUC 0.932, KS 0.748.**
+
+### [Credit Default Model & Credit Policy — DS Accelerator (WeCogno)](https://github.com/ASFischer/dsaccelerator-tcc)
+Probability of a 30+ day delay in the first 12 installments, plus a credit policy by risk band.
+- 104k contracts, out-of-time split (train / validation / test by decision date).
+- **LightGBM AUC 0.727 vs. 0.689 for logistic regression**, with confidence intervals, KS, Gini, Brier, calibration, PSI and SHAP.
+- Risk bands (approve / approve with adjustment / reject), fairness checks by sex and age, and automated tests.
+
+### [Medallion ETL Pipeline](https://github.com/ASFischer/etl-project)
+Bronze → silver → gold pipeline in Python that enriches user data with the ViaCEP public API and loads it into PostgreSQL running on Docker.
+
+### [Credit Card Default — cost-based threshold](https://github.com/ASFischer/credit_risk)
+XGBoost on 30k clients (UCI dataset) with feature engineering, SHAP explanations and a decision threshold calibrated on asymmetric costs (a missed default costs ~16× a wrong refusal), simulated across three risk-appetite scenarios.
+
+### [Industrial Predictive Maintenance](https://github.com/ASFischer/industrial-predictive-maintenance)
+Failure prediction from 220k+ minute-level readings of 52 industrial sensors: cleaning, EDA, feature selection and a Random Forest classifier, with evaluation plots.
+
+### [Neural Network from Scratch](https://github.com/ASFischer/neural-network)
+A two-layer neural network implemented in NumPy (forward and backward propagation) on MNIST, compared with a Keras model.
 
 ---
 
-## 🎯 How I Can Contribute to Your Team:
+## Stack
 
-As a junior professional, I understand that my role goes beyond tuning hyperparameters. I am ready to bring value by:
-1. **Owning the Foundation:** Ensuring that data ingestion, cleaning, and preprocessing are robust—where 80% of the data lifecycle actually happens.
-2. **Bridging Technical and Business Needs:** Leveraging my background in QA and communication to translate technical metrics into clear, actionable managerial reports.
-3. **Exploring the Frontier:** I have a strong interest and willingness to learn, test, and integrate new **Generative AI** frameworks and tools into traditional data workflows.
+**Languages & ML:** Python (pandas, NumPy, scikit-learn, LightGBM, XGBoost, PyTorch, Keras, SHAP)
+**Data:** SQL (PostgreSQL, MySQL), dbt, Airbyte, Docker
+**BI & tools:** Power BI, Looker Studio, Git/GitHub, Jira, Postman
+
+**Languages:** Portuguese (native) · English (C1) · Spanish (B2)
 
 ---
 
-## 📫 Let's Connect!
+## Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/andresouzafischer/]
+- **LinkedIn:** [linkedin.com/in/andresouzafischer](https://www.linkedin.com/in/andresouzafischer/)
 - **E-mail:** dedesfischer@gmail.com
+
+Open to Data Scientist, Data Analyst and Analytics/Data Engineer roles.
